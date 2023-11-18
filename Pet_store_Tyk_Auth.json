@@ -1162,7 +1162,7 @@
     ],
     "servers": [
         {
-            "url": "http://tyk-gateway.localhost:8080/pets/"
+            "url": "http://tyk-gateway.localhost:8080/pet-auth/"
         }
     ],
     "tags": [
